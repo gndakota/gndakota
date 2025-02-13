@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi there! 👋 I'm Ndakota</h1>
 
-<!--
-**gndakota/gndakota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 CRM Marketer & Analyst | 📊 Working with bonuses & A/B testing | 🔥 Passionate about crypto & automation
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Skills:
+- 🎯 CRM Marketing (Altcraft, SQL, Mindbox)
+- 📊 Analytics (T-SQL, A/B testing, segmentation)
+- 🔥 Crypto (Web3, NFT bots, trading)
+- 💻 Automation & Python (API scripts, Web3)
+
+### 🚀 My Projects:
+- 🤖 **NFT Trading Bot** – automated buying & selling of NFTs ([repository](#))
+- 🕵 **Fraudulent Wallets Analysis** – detecting suspicious transactions ([repository](#))
+- ⚡ **CRM Bonus Strategies** – optimizing free bets & insurance offers ([repository](#))
+
+---
+
+### 📈 GitHub Stats:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gndakota&show_icons=true&theme=radical)
+
+---
